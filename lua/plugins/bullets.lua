@@ -14,7 +14,6 @@ return {
     -- 2 works similar ot Obsidian https://github.com/bullets-vim/bullets.vim/pull/163
     vim.g.bullets_delete_last_bullet_if_empty = 2
     vim.g.bullets_enable_in_empty_buffers = 0
-    vim.g.bullets_outline_levels = { "num", "abc", "std-", "std+" }
     -- (Optional) Add other configurations here
     -- For example, enabling/disabling mappings
     -- vim.g.bullets_set_mappings = 1
